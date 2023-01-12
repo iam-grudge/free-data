@@ -1,0 +1,60 @@
+
+
+
+.container_share{
+    font-style: italic;
+    width: 300px;
+    height: 600px;
+    background-color: rgb(237, 239, 240);
+    box-shadow: 1px 1px 2px 2px gray;
+    margin: auto;
+    padding-top: 16px;
+    color: blue;
+    font-weight: 500px;
+}
+p{
+    font-size: 12px;
+    margin-left: 10px;
+    margin-top: 3px;
+}
+#message{
+    color: green;
+    font-size: 12px;
+    font-weight: bold;
+}
+font{
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+}
+#invite{
+    background: green;
+    color: white;
+    width: 120px;
+    height: 40px;
+margin-left: 90px;
+border-radius: 6px;
+border: solid gray;
+}
+#invite:hover{
+    background-color: rgb(84, 244, 84);
+    cursor: pointer;
+}
+#complete{
+    background: rgb(17, 28, 176);
+    color: white;
+    width: 120px;
+    height: 40px;
+margin-left: 90px;
+border-radius: 6px;
+border: solid gray;
+}
+#complete:hover{
+    background-color: rgb(84, 77, 211);
+    cursor: pointer;
+}
+#file{
+    width: 250px;
+    height: 25px;
+    margin-left: 25px;
+}
